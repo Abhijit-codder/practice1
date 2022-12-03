@@ -2,6 +2,6 @@
 
 int main()
 {
- printf("helo"); 
+ printf("helo india"); 
 return 0;
 }
